@@ -97,8 +97,8 @@ A planilha deve conter:
 
 | Email        | 1 nomes | Sobrenome       | Senha     | Situação     |
 |--------------|---------|------------------|------------|--------------|
-| joao.pereira | João    | Pereira Silva    | Unimed123  | Email criado |
-| maria.sousa  | Maria   | Souza Lima       | Unimed123  | ERRO         |
+| joao.pereira | João    | Pereira Silva    | Senha123  | Email criado |
+| maria.sousa  | Maria   | Souza Lima       | Senha123  | ERRO         |
 
 ---
 
