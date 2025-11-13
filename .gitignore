@@ -1,0 +1,13 @@
+# Configuração com senhas reais
+config.py
+
+# Planilhas com dados reais
+arquivos/*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+env/
